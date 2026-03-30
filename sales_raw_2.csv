@@ -1,0 +1,141 @@
+customer_id,customer_name,city,category,order_date,sales_amount,quantity,returned
+1001,Ulf Dahl,Göteborg,Träning,2026-01-12,1 080,5,nej
+1002,Anna Ivarsson,Örebro,Teknik,2026-02-20,1410,3,nej
+1003,Helena Holm,Uppsala ,Möbler,2026-01-23,1800,4,nej
+1004,Emma Dahl,malmo,Teknik,2026-01-15,,3,nej
+1005,Vera Ryd,Stockholm,Teknik,2026-01-28,1200,3,nej
+1006,Cecilia Sjöberg, STOCKHOLM,Teknik,2026-02-03,610,1,ja
+1007,Nora Berg, STOCKHOLM,Kontor,2026-01-02,900,4,nej
+1008,Anna Carlsson,Västerås,Möbler,2026-02-01,1 420,4,nej
+1009,Gustav Holm,Malmö,Teknik,2026-01-23,1 900,3,nej
+1010,Qasim Törnqvist,uppsala,Teknik,2026-01-22,1440,4,ja
+1011,Anna Ryd,Stockholm,Träning,2026-02-20,900,3,nej
+1012,Gustav Ryd,Örebro,Teknik,2026-01-25, 910,1,NEJ
+1013,Nora Holm,Västerås ,Teknik,2026-02-27,1010,2,nej
+1014,Oskar Sjöberg,Stockholm,Möbler,2026-01-22,1 180,1,nej
+1015,Isak Andersson,Stockholm,Träning,2026-02-27,1080,2,nej
+1016,Yasin Forsberg,stockholm,Teknik,2026-02-27,,1,nej
+1017,William Nyström,Göteborg ,Kontor,2026-01-22,790,3,nej
+1018,Karl Ivarsson,Malmö,Kök,2026-02-18,1020,2,nej
+1019,Emma Gran,,Teknik,2026-02-21,970,,nej
+1020,Yasin Klint,Göteborg,Kök,2026-02-11,450,2,nej
+1021,David Carlsson,Malmö,Möbler,2026-01-06,1070,3,nej
+1022,Mikael Dahl,Stockholm,Kontor,2026-01-15,1040,2,nej
+1023,Lina Lind,Göteborg,Kontor,2026-02-23,1 100,2,nej
+1024,Tilda Ivarsson,GOTEBORG,Kontor,2026-02-12,720,2,nej
+1025,Zara Berg,göteborg,Teknik,2026-03-01,1430,3,nej
+1026,Xenia Olsson,Uppsala,Kök,2026-02-06,1310,2,ja
+1027,Rebecka Dahl,Stockholm,Möbler,2026-02-02,4370,5,nej
+1028,Diana Malm,Malmö,Teknik,2026-01-08,1120,1,nej
+1029,Cecilia Ryd,Malmö,Teknik,2026-02-22,1010,2,nej
+1030,Johanna Törnqvist,Stockholm,Kontor,2026-03-01,1 000,6,nej
+1031,Casper Lind,Malmö,Kontor,2026-02-13, 530,3,nej
+1032,Samuel Gran,Stockholm,Teknik,2026-02-13,1100,2,nej
+1033,William Carlsson,Stockholm,Möbler,2026-01-05,1 450,3,nej 
+1034,Bo Holm,Örebro,Teknik,2026-02-08,750,3,nej
+1035,Yasin Johansson,,Kontor,2026-01-04,880,4,ja
+1036,Cecilia Holm,,Teknik,2026-01-06, 600,1,JA
+1037,Beata Dahl,göteborg,Kontor,2026-02-14,1100,2,nej
+1038,Mikael Ivarsson,Stockholm,Möbler,2026-02-01,2 260,3,nej
+1039,Oskar Lind,uppsala,Träning,2026-02-21,1440,5,nej
+1040,Farah Lind,Göteborg,Teknik,2026-01-30,1740,3,nej
+1041,Lina Gran,stockholm,Möbler,2026-02-16,1570,2,nej
+1042,Vera Ivarsson,Göteborg,Teknik,2026-02-04,940,3,nej
+1043,William Carlsson,Stockholm,Träning,2026-02-24,1780,4,nej
+1044,Tilda Forsberg,Örebro,Träning,2026-02-09,1 070,2,nej
+1045,Rebecka Holm,stockholm,Teknik,2026-02-21, 750,2,nej
+1046,Farah Olsson,Malmö,Kontor,2026-01-16,870,3,nej
+1047,Mikael Ivarsson,Göteborg,Kök,2026-01-13,920,2,nej
+1048,Diana Ryd,malmö,Kontor,2026-02-19,,2,nej
+1049,Helena Klint,malmö,Kontor,2026-03-01,950,2,nej
+1050,Albin Berg,Stockholm,Teknik,2026-02-11,1300,1,nej
+1051,Helena Berg,Örebro,Teknik,2026-01-30,530,1,nej
+1052,Zara Klint,Uppsala,Träning,2026-01-19,1850,6,nej
+1053,Mikael Ivarsson,Örebro,Träning,2026-01-17,1 200,5,ja
+1054,Cecilia Gran,Västerås,Kontor,2026-02-25,670,2,nej 
+1055,Diana Sjöberg,malmö,Möbler,2026-01-19,2230,6,NEJ
+1056,Casper Klint,Örebro ,Möbler,2026-01-28,1390,3,nej
+1057,Gustav Persson,Stockholm,Kök,2026-02-27,1230,2,nej
+1058,Mikael Olsson,Stockholm,Träning,2026-02-24,730,2,nej
+1059,Emma Ivarsson,Stockholm,Träning,2026-01-26,820,1,ja
+1060,Emma Holm,Göteborg,Kök,2026-02-06,980,1,nej
+1061,Xenia Ryd,Göteborg,Kontor,2026-01-26,,3,nej
+1062,Rebecka Ivarsson,Stockholm,Teknik,2026-02-22,930,3,nej
+1063,Xenia Sjöberg,Västerås,Teknik,2026-01-23,720,1,nej
+1064,Nora Sjöberg,Göteborg ,Träning,2026-01-09,,,nej
+1065,Mikael Lind,Göteborg,Kontor,2026-01-12,1 190,4,nej
+1066,Helena Ek,Malmö,Teknik,2026-02-22,630,1,nej
+1067,Qasim Persson,Stockholm,Teknik,2026-01-01,1070,,nej
+1068,Cecilia Berg,Västerås,Kontor,2026-02-27,1 590,6,nej
+1069,Beata Dahl,stockholm,Teknik,2026-02-27,980,6,nej
+1070,Emma Forsberg,Örebro,Teknik,2026-01-01,,1,nej
+1071,Zara Nyström,Uppsala,Kontor,2026-02-16,640,,nej
+1072,Tilda Carlsson,Stockholm ,Kontor,2026-02-03,1040,3,nej
+1073,Mikael Malm,Stockholm,Kontor,2026-02-01,840,4,nej
+1074,Tilda Olsson,Västerås,Teknik,2026-02-23,910,6,nej
+1075,Qasim Ivarsson,Uppsala ,Kök,2026-02-17,800,3,nej
+1076,Rebecka Andersson,Uppsala,Teknik,2026-01-25,1440,4,nej
+1077,Vera Dahl,uppsala,Möbler,2026-02-09,2 550,5,NEJ
+1078,Vera Ryd,,Kök,2026-02-14,1 240,4,nej
+1079,Yasin Ivarsson,Göteborg,Kontor,2026-02-22,900,2,nej
+1080,Yasin Klint,Stockholm,Kök,2026-01-01,660,2,nej
+1081,David Johansson,Västerås,Kontor,2026-01-16,760,2,nej
+1082,Nora Forsberg,Malmö,Kontor,2026-02-08,820,5,nej
+1083,Oskar Andersson,Göteborg,Teknik,2026-01-05,700,1,nej
+1084,Xenia Ivarsson,Stockholm,Möbler,2026-01-22,1840,3,nej
+1085,Qasim Forsberg,Göteborg,Teknik,2026-01-29,800,2,nej
+1086,Qasim Dahl,Göteborg,Teknik,2026-02-24,1110,3,nej
+1087,Beata Johansson,Uppsala,Träning,2026-01-03,1820,5,nej
+1088,Albin Qvist,Malmö,Möbler,2026-01-12,2010,5,nej
+1089,Tilda Gran,Västerås ,Träning,2026-01-26,1 140,2,nej
+1090,Emma Lind,Göteborg,Kontor,2026-01-16,840,5,nej
+1091,Yasin Forsberg,Stockholm,Kök,2026-02-20,1640,3,nej
+1092,Rebecka Qvist,Uppsala,Möbler,2026-02-06,,2,nej
+1093,Diana Andersson,Uppsala,Kontor,2026-01-22,380,4,ja 
+1094,Tilda Klint,malmo,Möbler,2026-02-26,1210,2,ja
+1095,Petra Andersson,Uppsala,Teknik,2026-01-29,1 210,2,nej
+1096,David Lind,,Kök,2026-01-14,1 560,4,nej
+1097,Casper Johansson,Malmö,Teknik,2026-01-28,1150,2,ja
+1098,Helena Berg,Göteborg,Teknik,2026-01-05,870,2,nej
+1099,Helena Sjöberg,Stockholm,Kontor,2026-02-16, 790,2,nej
+1100,Cecilia Carlsson,Stockholm,Teknik,2026-02-18,1000,2,nej
+1101,Xenia Persson,,Träning,2026-01-30,1220,2,ja
+1102,Albin Carlsson,Malmö,Träning,2026-02-15,,3,nej
+1103,Yasin Ryd,göteborg,Träning,2026-02-21,,4,ja
+1104,Yasin Ek,Malmö,Möbler,2026-01-05,1870,4,
+1105,Emma Persson,Örebro,Teknik,2026-01-12,1230,4,nej
+1106,Rebecka Forsberg,stockholm,Träning,2026-01-16,1130,4,nej
+1107,Isak Qvist,Göteborg,Möbler,2026-01-26,2010,3,nej
+1108,Beata Törnqvist,Uppsala ,Träning,2026-01-26,830,2,nej
+1109,Nora Gran,Stockholm,Träning,2026-02-17,1010,2,nej
+1110,Diana Ryd, STOCKHOLM,Träning,2026-01-21,1440,2,nej
+1111,Yasin Gran,Göteborg,Teknik,2026-02-08,1 060,1,ja
+1112,William Johansson,Stockholm,Möbler,2026-02-05,1400,,ja
+1113,Mikael Lind,Örebro,Träning,2026-02-02,1230,2,nej
+1114,Oskar Qvist,Västerås ,Teknik,2026-01-30,1270,4,ja
+1115,Oskar Dahl,Malmö,Teknik,2026-02-06,800,6,nej
+1116,Helena Holm,Västerås,Kontor,2026-01-23,670,3,nej
+1117,Cecilia Klint,,Träning,2026-02-27,480,2,NEJ
+1118,Anna Sjöberg,stockholm,Kontor,2026-01-10,570,1,nej
+1119,Rebecka Holm,Västerås,Kontor,2026-02-23,1200,5,
+1120,Samuel Holm,Malmö,Teknik,2026-01-05,2360,5,nej
+1121,Anna Carlsson,Västerås,Kontor,2026-02-05,,2,nej
+1122,William Berg,västerås,Träning,2026-02-03,1040,3,nej
+1123,Helena Carlsson,Göteborg,Teknik,2026-02-21,1050,1,ja
+1124,Casper Berg,Stockholm,Möbler,2026-01-31,500,1,ja
+1125,Beata Klint,Stockholm,Träning,2026-01-10,810,1,ja 
+1126,Cecilia Qvist,göteborg,Kök,2026-02-27,1460,2,nej
+1127,Helena Ivarsson,Västerås,Kontor,2026-01-19,820,6,nej
+1128,Vera Persson,Västerås,Kök,2026-02-27,1880,3,nej
+1129,Gustav Ryd,Stockholm,Möbler,2026-02-01,1 680,2,nej
+1130,Emma Sjöberg,Malmö,Teknik,2026-01-01,1260,4,nej
+1131,Samuel Persson,Göteborg,Kök,2026-02-25,2190,5,nej
+1132,Helena Persson,Stockholm,Kök,2026-01-05,3380,6,nej
+1133,Zara Nyström,Stockholm,Träning,2026-02-14,800,1,NEJ
+1134,Gustav Dahl,Göteborg,Träning,2026-01-04,1000,2,nej
+1135,David Nyström,Örebro,Möbler,2026-01-16,1350,,nej
+1136,Lina Nyström,,Möbler,2026-01-24,1180,,ja
+1137,Nora Olsson,malmo,Kök,2026-01-16,1 210,1,nej
+1138,Beata Berg,Uppsala,Kontor,2026-02-24,710,3,nej
+1139,Vera Dahl,,Kök,2026-01-02,1230,2,nej
+1140,Bo Malm,Örebro,Kök,2026-02-18,1050,,nej

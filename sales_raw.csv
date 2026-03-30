@@ -1,0 +1,9 @@
+customer_id,customer_name,city,category,order_date,sales_amount,quantity,returned
+101,Anna,Stockholm,Teknik,2026-01-10,1200,2,nej
+102,Bo,Göteborg,Teknik,2026-01-12,950,1,nej
+103,Cecilia,Malmö,Möbler,2026-01-12,2 300,3,ja
+104,David,Stockholm ,Möbler,2026-01-18,1800,2,nej
+105,Emma,göteborg,Teknik,2026-01-19,NA,1,nej
+106,Farah,Malmö,Kontor,2026-01-20,750,1,ja
+107,Gustav,NA,Kontor,2026-01-22,1100,2,nej
+108,Helena,Stockholm,Teknik,2026-01-25,1300,NA,nej

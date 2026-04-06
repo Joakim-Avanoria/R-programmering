@@ -1,0 +1,53 @@
+---
+title: "mini_case_report"
+format: pdf
+---
+
+```{r}
+library(tidyverse)
+gym_raw <- read_csv("../data/gym_membership_behavior.csv")
+source("../scripts/02_prepare_data.R")
+source("../scripts/03_analysis.R")
+source("../scripts/04_figures.R")
+```
+
+# Introduktion
+
+I den här rapporten analyseras medlemsbeteende i en träningskedja. Fokus ligger på två frågor: hur medlemskapstyperna skiljer sig åt i användning och spend, och om det finns tecken på att lägre engagemang hänger ihop med avhopp.
+
+# Fråga 1
+
+Hur skiljer sig medlemskapstyperna åt i användning och spend?
+
+```{r}
+membership_summary
+
+```
+
+```{r}
+p_spend_membership
+```
+
+Premium-medlemmar verkar ha tydligt högre monthly spend än både Standard och Basic. Standard ligger i mitten, medan Basic ligger lägst. Figuren visar också att spridningen är större i Premium-gruppen än i Basic-gruppen.
+
+```{r}
+p_visits_membership
+```
+
+Antal besök verkar också skilja sig mellan grupperna. Premium ligger högst även här, medan Basic ligger lägre. Skillnaderna är tydliga, även om de inte är lika stora som för spend.
+
+# Fråga 2
+
+Finns det tecken på att lägre engagemang hänger ihop med avhopp?
+
+```{r}
+cancellation_summary
+```
+
+```{r}
+p_satisfaction_cancel
+```
+
+```{r}
+cancel_test
+```
